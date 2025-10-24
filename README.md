@@ -73,9 +73,11 @@ plot2d3('gnn',r);
 
 OUTPUT
 <img width="1506" height="932" alt="image" src="https://github.com/user-attachments/assets/6b5fc2ad-0a5d-4d85-89a6-4a5a4a020ab9" />
+
  
 TABULATION
-![WhatsApp Image 2025-10-24 at 18 02 28_e178c8ab](https://github.com/user-attachments/assets/813943f8-df80-4927-915a-56d33dbc247a)
+<img width="802" height="1040" alt="image" src="https://github.com/user-attachments/assets/e5991df5-8a2b-465b-9131-59fee596600d" />
+
 
 
 RESULT: 

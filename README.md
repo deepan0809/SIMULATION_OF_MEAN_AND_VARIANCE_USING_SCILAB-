@@ -5,8 +5,13 @@ AIM:
 To write a program for mean, variance and cross correlation in SCILAB and verify the output. 
 
 EQUIPMENTS Needed 
+
 • Computer with i3 Processor 
+
+
 • SCI LAB 
+
+
 Algorithm 
 1. Define the Function: Specify the function you want to simulate. For example, 
 f(x)=sin⁡(x)f(x) = \sin(x)f(x)=sin(x) or any other function. 

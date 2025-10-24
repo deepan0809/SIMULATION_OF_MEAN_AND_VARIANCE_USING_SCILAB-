@@ -1,5 +1,7 @@
 # SIMULATION_OF_MEAN_AND_VARIANCE_USING_SCILAB
-AIM: 
+
+AIM:
+
 To write a program for mean, variance and cross correlation in SCILAB and verify the output. 
 
 EQUIPMENTS Needed 
